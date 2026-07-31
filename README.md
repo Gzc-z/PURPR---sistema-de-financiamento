@@ -15,6 +15,5 @@ Com o tempo vou transformando em um serviço útil e de fácil uso
 - [ ] criar pequena interfaces
 - [ ] comentários e documentação
 - [ ] disponibilizar releases
-- [ ] usar números reais de empresas para os cálculos de financiamento
 - [ ] sincronizar dados com diferentes lugares
-- [ ] 
+- [ ] escalar
